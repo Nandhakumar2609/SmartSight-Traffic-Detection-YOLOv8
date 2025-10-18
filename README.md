@@ -74,6 +74,6 @@ Future optimization strategies include dataset expansion and model pruning to en
 
 👨‍💻 Author
 
-Nandhakumar Chitra Ragupathy
-DSTI School of Engineering
+Nandhakumar Chitra Ragupathy,
+DSTI School of Engineering,
 📧 Contact: nandhu98650@gmail.com
