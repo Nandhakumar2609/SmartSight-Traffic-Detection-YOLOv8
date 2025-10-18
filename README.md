@@ -1,53 +1,79 @@
-# SmartSight — Real-Time Traffic Sign and Vehicle Detection Using YOLOv8
+SmartSight — Real-Time Traffic Sign and Vehicle Detection Using YOLOv8
+📘 Overview
 
-## 📘 Overview
-SmartSight is an academic project that implements the **YOLOv8 (You Only Look Once, version 8)** model for real-time detection and classification of traffic signs and vehicles. This project demonstrates the integration of **deep learning** and **computer vision** techniques within the domain of **intelligent transportation systems (ITS)** to enhance road safety and automation.
+SmartSight is an academic project that implements the YOLOv8 (You Only Look Once, version 8) model for real-time detection and classification of traffic signs and vehicles.
+This project showcases the integration of deep learning and computer vision techniques within the domain of Intelligent Transportation Systems (ITS) to enhance road safety and automation.
 
-## 🎯 Objectives
-- To apply YOLOv8 for accurate real-time detection of traffic signs and vehicles.
-- To explore the use of object detection in smart transportation and driver assistance systems.
-- To evaluate YOLOv8’s performance on dynamic traffic environments using video and image inputs.
+🎯 Objectives
 
-## ⚙️ Technologies Used
-- **Programming Language:** Python  
-- **Frameworks/Libraries:** Ultralytics YOLOv8, PyTorch, OpenCV, NumPy, Matplotlib  
-- **Tools:** Jupyter Notebook / Google Colab, Git, GitHub  
-- **Dataset:** Custom or publicly available traffic sign and vehicle datasets (e.g., GTSRB, COCO, custom annotations)
+Apply YOLOv8 for accurate, real-time detection of traffic signs and vehicles.
 
-## 🚀 Features
-- Real-time object detection and classification  
-- Bounding box visualization for multiple traffic entities  
-- Easy model integration and fine-tuning  
-- Supports live video input or recorded footage  
+Explore object detection applications in smart transportation and driver assistance systems.
 
-## 🧠 Methodology
-1. **Data Preparation:** Collection and annotation of traffic images and videos.  
-2. **Model Training:** YOLOv8 model trained or fine-tuned on the dataset.  
-3. **Inference:** Real-time detection using trained weights.  
-4. **Evaluation:** Model accuracy, precision, and inference speed measured for performance analysis.
+Evaluate YOLOv8’s performance in dynamic traffic environments using both image and video inputs.
+
+⚙️ Technologies Used
+
+Programming Language: Python
+
+Frameworks & Libraries: Ultralytics YOLOv8, PyTorch, OpenCV, NumPy, Matplotlib
+
+Development Tools: Jupyter Notebook / Google Colab, Git, GitHub
+
+Datasets: publicly available datasets 
+
+🚀 Features
+
+Real-time object detection and classification
+
+Bounding box visualization for multiple traffic entities
+
+Easy integration and fine-tuning of YOLOv8 models
+
+Supports both live video streams and recorded footage
+
+🧠 Methodology
+
+Data Preparation
+
+Collection and annotation of traffic images and video datasets.
+
+Model Training
+
+Training or fine-tuning the YOLOv8 model on the selected dataset.
+
+Inference
+
+Performing real-time detection using the trained model weights.
+
+Evaluation
+
+Measuring model accuracy, precision, and inference speed for performance analysis.
 
 📊 Results
 
-The system achieves high accuracy in identifying multiple traffic objects, demonstrating the robustness of YOLOv8 for real-time visual perception tasks. Further optimization may include dataset expansion and model pruning for faster inference.
+The system demonstrates high accuracy in detecting and classifying multiple traffic-related objects.
+The experiment validates the robustness of YOLOv8 for real-time visual perception tasks.
+Future optimization strategies include dataset expansion and model pruning to enhance inference speed.
 
-📚 Future Work
+🔮 Future Work
 
-1.Integration with embedded systems (e.g., Raspberry Pi, Jetson Nano)
+Integration with embedded systems (e.g., Raspberry Pi, NVIDIA Jetson Nano)
 
-2.Real-world deployment and edge inference
+Real-world deployment and edge inference optimization
 
-3.Expansion to multi-class traffic object detection (pedestrians, lanes, signals)
+Expansion to multi-class detection (pedestrians, lane markings, traffic signals, etc.)
 
 📎 References
 
-1.Ultralytics YOLOv8 Documentation: https://docs.ultralytics.com
+Ultralytics YOLOv8 Documentation — https://docs.ultralytics.com
 
-2.Redmon, J. et al., “You Only Look Once: Unified, Real-Time Object Detection,” CVPR, 2016.
+Redmon, J. et al., “You Only Look Once: Unified, Real-Time Object Detection,” CVPR, 2016.
 
-3.Relevant traffic sign and vehicle datasets (GTSRB, COCO, etc.)
+Public traffic datasets — GTSRB, COCO, and other relevant annotated datasets.
 
 👨‍💻 Author
 
 Nandhakumar Chitra Ragupathy
-DSTI School of Engineering 
-Contact: nandhu98650@gmail.com
+DSTI School of Engineering
+📧 Contact: nandhu98650@gmail.com
