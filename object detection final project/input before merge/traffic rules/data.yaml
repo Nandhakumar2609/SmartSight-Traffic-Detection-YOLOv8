@@ -1,7 +1,0 @@
-path: C:/Users/nandhudivya/Downloads/archive/Cars Detection
-train: C:/Users/nandhudivya/Downloads/archive/Cars Detection/images/train
-val: C:/Users/nandhudivya/Downloads/archive/Cars Detection/images/val
-test: C:/Users/nandhudivya/Downloads/archive/Cars Detection/images/test
-
-nc: 5
-names: ['Ambulance', 'Bus', 'Car', 'Motorcycle', 'Truck']
